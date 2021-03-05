@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+	<!-- 唯一的根元素 -->
+	<head>
+		<meta charset="utf-8"/>
+		<!-- 声明网页的标题 -->
+		<title>first web page</title>
+	</head>
+	
+	<!-- 写网页的具体的内容 -->
+	<body>
+		<!-- 1.标题 -->
+		<h1>aaa</h1>
+		<h2>bbb</h2>
+		<h3>ccc</h3>
+		
+		<!-- 2.段落 -->
+		<p>第一段</p>
+		<p>第二段</p>
+		
+		<!-- 3.1有序列表 -->
+		<ol>
+			<li>北京</li>
+			<li>上海</li>
+			<li>广州</li>
+		</ol>
+		<!-- 3.2无序列表 -->
+		<ul>
+			<li>北京</li>
+			<li>上海</li>
+			<li>广州</li>
+		</ul>
+		<!-- 3.3嵌套列表-->
+		<ol>
+			<li>湖北</li>
+			<ul>
+				<li>武汉</li>
+				<li>宜昌</li>
+			</ul>
+		</ol>
+	</body>
+</html>
